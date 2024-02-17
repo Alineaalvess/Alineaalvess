@@ -1,16 +1,14 @@
-### Hi there 👋
+Olá 👋
+Meu nome é Aline, moro SP atualmente trabalho como assistente de vendas, estou em transição de carreira para programação.
 
-<!--
-**Alineaalvess/Alineaalvess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonada por desafios tecnológicos e estou constantemente em busca de aprendizado na área de desenvolvimento de software. Atualmente em formação , procuro oportunidades para aplicar meus conhecimentos e contribuir com projetos inovadores.
 
-Here are some ideas to get you started:
+Tenho experiência em HTML, CSS e JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="https://api.whatsapp.com/send?phone=5511977483285&text=Ol%C3%A1,%20vim%20pela%20aplica%C3%A7%C3%A3o%20do%20Mario%20Bros!" alt="link-whatsapp"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alineaalvess)
