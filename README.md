@@ -1,7 +1,8 @@
-Olá 👋 Meu nome é Aline Alves :sunglasses: moro São Paulo capital / SP :house:
+Olá 👋 Me chamo Aline :sunglasses: 
+* São Paulo capital :house:
 
-Sou apaixonada por desafios tecnológicos estou em busca de aprendizado na área de desenvolvimento de software, procuro oportunidades para aplicar meus conhecimentos e contribuir com projetos inovadores.
-* Faço faculdade de Analise e Desenvolvimento de Sistema e Curso na DevClub 💻
+Sou apaixonada por desafios tecnológicos em busca de aprendizado na área de desenvolvimento de software, procuro oportunidades para aplicar meus conhecimentos e contribuir com projetos inovadores.
+* Faço faculdade de Analise e Desenvolvimento de Sistemas e Curso na DevClub 💻
 * Tenho conhecimento em HTML, CSS e JavaScript.
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
